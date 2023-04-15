@@ -29,8 +29,11 @@ export default class Games extends React.Component<GamesProps, GamesState> {
   }
 
   render() {
+    
     return (
+    
       <table>
+        
         <thead>
           <th>ID</th>
           <th>Title</th>

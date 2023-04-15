@@ -7,6 +7,7 @@ import "./components/SingleGame";
 function App() {
   return (
     <div className="App">
+      <h1>Game Store</h1>
       <Games/>
     </div>
   );
